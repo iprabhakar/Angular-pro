@@ -4,6 +4,7 @@
 // new changes done here!!!!Done!
 // next statement
 // final changes
+// dev commit check
 module.exports = function (config) {
   config.set({
     basePath: '',
